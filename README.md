@@ -1,2 +1,2 @@
-# ansible
-Sample code for environment set up
+# node.js app
+Sample node.js code to test environment set up
